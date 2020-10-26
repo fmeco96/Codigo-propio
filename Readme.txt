@@ -1,13 +1,9 @@
-Código de programa abierto para todos aquellos que están comenzando programación.
+CÃ³digo de programa abierto para todos aquellos que estÃ¡n comenzando programaciÃ³n.
 
-El uso de este código para ventas a terceros esta terminantemente prohibido.
-
-Lenguaje usado: Python 3.8 & Tkinter
+El uso de este cÃ³digo para ventas a terceros esta terminantemente prohibido.
 
 ------- English -----------------------------------------------------------
 
 Open program code for all those who are starting programming.
 
 The use of this code for sales to third parties is strictly prohibited.
-
-Language used: Python 3.8 & Tkinter
